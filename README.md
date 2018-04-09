@@ -1,4 +1,4 @@
-# Chess in 3D
+# Chess3D
 
 A simplistic two-player interactive game of chess in 3D using OpenGL and C++, made for a computer graphics course. The camera moves freely on a fixed sphere and the pieces can be precisely selected and moved using the mouse. Basic ruleset of chess is implemented.
 
