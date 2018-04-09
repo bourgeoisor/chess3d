@@ -71,7 +71,7 @@ void Game::start(int *argc, char *argv[]) {
     glutInitWindowPosition((glutGet(GLUT_SCREEN_WIDTH)-WINDOW_WIDTH)/2, (glutGet(GLUT_SCREEN_HEIGHT)-WINDOW_HEIGHT)/2);
     glutInitWindowSize(WINDOW_WIDTH, WINDOW_HEIGHT);
 
-    glutCreateWindow("OpenGL Chess");
+    glutCreateWindow("Chess3D");
 
     init();
 

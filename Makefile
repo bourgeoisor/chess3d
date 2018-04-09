@@ -5,7 +5,8 @@ CPPFLAGS=-g $(shell root-config --cflags)
 LDFLAGS=-g $(shell root-config --ldflags)
 LDLIBS=$(shell root-config --libs) -lglut -lGL -lGLU
 
-SRCS=vao.cpp rules.cpp game.cpp main.cpp 
+
+SRCS=sources/vao.cpp sources/rules.cpp sources/game.cpp sources/main.cpp 
 OBJS=$(subst .cc,.o,$(SRCS))
 
 all: chess
