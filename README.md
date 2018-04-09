@@ -4,7 +4,7 @@ A simplistic two-player interactive game of chess in 3D using OpenGL and C++, ma
 
 ## Screenshot
 
-![ScreenShot](https://user-images.githubusercontent.com/3271352/38474901-31c9d56c-3b7a-11e8-90e7-a38a842d3e29.png)
+![ScreenShot](https://user-images.githubusercontent.com/3271352/38475041-63e5986e-3b7b-11e8-9683-35c1324717e0.png)
 
 ## How to Run
 
