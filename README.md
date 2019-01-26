@@ -15,3 +15,9 @@ First, compile the source:
 Then, simply run the resulting executable:
 
     ./chess
+
+## Development State
+
+Chess3D is not currently being actively worked on. That being said, if you want to 
+contribute to this project, please feel free to either message me for more information or 
+to directly send in a pull request.
